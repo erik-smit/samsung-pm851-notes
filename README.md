@@ -3,7 +3,7 @@
 Samsung MZ7TE drives run EXT0x  
 Samsung MZNTE drives run EXT2x  
 
-128GB and 512GB run the same firmware, but 256GB runs different firmware.  
+Lenovo 128GB and 512GB run the same firmware, but 256GB runs different firmware.  
 You can see this in drive id, last two characters.
 
 | | |
@@ -13,19 +13,27 @@ You can see this in drive id, last two characters.
 
 Timestamps:
 
+| | | |
+| - | - | - | 
+| | EXT06L0Q | 2014041821:25    |
+| | EXT07L0Q | 2016084 19:37    |
+| | EXT09L6Q | 2014041821:34    |
+| | EXT0AL6Q | 2015082211:55    |
+| | EXT0BL6Q | 2016084 17:59    |
+| | EXT27L0Q | 2016085 9:51     |
+| | EXT29L6Q | 2016085 10:30    |
 | | |
-| - | - |
-| EXT06L0Q | 2014041821:25    |
-| EXT07L0Q | 2016084 19:37    |
-| EXT09L6Q | 2014041821:34    |
-| EXT0AL6Q | 2015082211:55    |
-| EXT0BL6Q | 2016084 17:59    |
-| EXT27L0Q | 2016085 9:51     |
-| EXT29L6Q | 2016085 10:30    |
+| | EXT26S0Q | 2014053010:58    |
 | | |
-| EXT26S0Q | 2014053010:58    |
-| | |
-| EXT08D0Q | 2015062416:50    |
+| | EXT08D0Q | 2015062416:50    |
+
+| PM851_Performance_Restoration v1.0_RC2 | | |
+| - | - | - |
+| MZMTE128HMGR-000MV | EXT42M0Q | 2014117 14:33 |
+| MZMTE256HMHP-000MV | EXT42M0Q | 2014117 14:33 |
+| MZMTE512HMHP-000MV | EXT42M0Q | 2014117 14:33 |
+| MZMTE1T0HMJH-000MV | EXT42M1Q | 2014111421:50 |
+
 
 ```
 Sony:
