@@ -4,19 +4,8 @@ Samsung MZ7TE drives run EXT0x
 Samsung MZNTE drives run EXT2x  
 Samsung MZMTE drives run EXT4x  
 
-My drive: EXT23D0Q
-
-Lenovo 128GB and 512GB run the same firmware, but 256GB runs different firmware.  
-You can see this in drive id, last two characters.
-
-| | |
-| - | - |
-| MZ7TE512HMHP-000L1 | EXT07L0Q | L1 drive becomes L0 firmware |
-| MZ7TE128HMGR-000L1 | EXT07L0Q | |
-| MZ7TE256HMHP-000L7 | EXT0BL6Q | L7 drive becomes L6 firmware |
-
-
-Timestamps:
+Dell and Lenovo 128GB and 512GB run the same firmware, but 256GB runs different firmware.  
+Microsoft 128GB, 256GB and 512GB run the same firmware, but 1TB runs different firmware.  
 
 | | | |
 | - | - | - | 
