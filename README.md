@@ -33,6 +33,8 @@ Timestamps:
 | | EXT08D0Q | 2015062416:50    |
 | MZNTE128HMGR-000D1 | EXT23D0Q | | 
 | MZNTE256HMHP-000D1 | EXT25D0Q | |
+| **MZNTE512HMHP-000D1** | **EXT23D0Q** | |
+
 
 | PM851_Performance_Restoration v1.0_RC2 | | |
 | - | - | - |
