@@ -12,7 +12,9 @@ You can see this in drive id, last two characters.
 | | |
 | - | - |
 | MZ7TE512HMHP-000L1 | EXT07L0Q | L1 drive becomes L0 firmware |
-| MZNTE256HMHP-000L7 | EXT0BL6Q | L7 drive becomes L6 firmware |
+| MZ7TE128HMGR-000L1 | EXT07L0Q | |
+| MZ7TE256HMHP-000L7 | EXT0BL6Q | L7 drive becomes L6 firmware |
+
 
 Timestamps:
 
