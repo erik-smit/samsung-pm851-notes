@@ -1,7 +1,7 @@
 # Samsung PM851 order in chaos
 
 Samsung MZ7TE drives run EXT0x  
-Samsung MZNTE drives run EXT2x
+Samsung MZNTE drives run EXT2x  
 Samsung MZMTE drives run EXT4x  
 
 Lenovo 128GB and 512GB run the same firmware, but 256GB runs different firmware.  
